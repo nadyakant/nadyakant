@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @nadyakant<br>👀 I’m interested in Data Analytics and Visualization<br>🌱 Currently learning Web Scraping and Java for Data Analysis<br>💞️ Looking to collaborate on our journeys <br>📫 It's easy to reach me, just message me on LinkedIn<br>😄 Please, refer to me with she or they pronouns, it's up to you!<br>⚡ A fun fact about me is that I used to design self-service kiosks interfaces
+👋 Hi, I’m @nadyakant<br>👀 I’m interested in Data Analytics and Visualization<br>🌱 Currently learning Web Scraping and Java for Data Analytics <br>💞️ Looking to collaborate on our journeys <br>📫 It's easy to reach me, just message me on LinkedIn<br>😄 Please, refer to me with she or they pronouns, it's up to you!<br>⚡ A fun fact about me is that I used to design self-service kiosk interfaces
 
 
 ## 🌐 Socials:
