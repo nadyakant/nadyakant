@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @nadyakant<br>👀 I’m interested in Data Analytics, Visualization, and Automation<br>🌱 Currently learning UIPath for RPA <br>💞️ My favorite programming languages are SQL, Python, and Java<br>📫 It's easy to reach me, just message me on LinkedIn<br>😄 Please, refer to me with she or they pronouns, it's up to you!<br>⚡ A fun fact about me is that I used to design self-service kiosk interfaces before I fell in love with Data
+👋 Hi, I’m @nadyakant<br>👀 I’m interested in Data Analytics, Visualization, and Automation<br>🌱 Currently learning UiPath for RPA <br>💞️ My favorite programming languages are SQL, Python, and Java<br>📫 It's easy to reach me, just message me on LinkedIn<br>😄 Please, refer to me with she or they pronouns, it's up to you!<br>⚡ A fun fact about me is that I used to design self-service kiosk interfaces before I fell in love with Data
 
 
 ## 🌐 Socials:
