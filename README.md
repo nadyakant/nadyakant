@@ -1,10 +1,10 @@
 # 💫 About Me:
-> 👋 Hi, I’m @nadyakant<be>
-> 👀 I’m interested in Data Analytics, Visualization, and Automation<be>
-> 🌱 Currently learning UiPath for RPA <be>
-> 💞️ My favorite programming languages are SQL, Python, and Java<be>
-> 📫 It's easy to reach me, just message me on LinkedIn<be>
-> 😄 Please, refer to me with she or they pronouns, it's up to you!<be>
+> 👋 Hi, I’m @nadyakant \
+> 👀 I’m interested in Data Analytics, Visualization, and Automation \
+> 🌱 Currently learning UiPath for RPA \
+> 💞️ My favorite programming languages are SQL, Python, and Java \
+> 📫 It's easy to reach me, message me on LinkedIn \
+> 😄 Please, refer to me with she or they pronouns, it's up to you! \
 > ⚡ A fun fact about me is that I used to design self-service kiosk interfaces before I fell in love with Data
 
 
