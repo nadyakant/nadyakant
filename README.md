@@ -26,10 +26,6 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="[[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNjkwODAsIm5iZiI6MTcyMDE2ODc4MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDA4Mzk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhOTMxMjA0OWY2OTY2MTMwMzFhOTYwZTk1MzlhZjY0NTk4MzdmYjcyMjBlMzJiNTA3NTlhZDczMDE1NjFkZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sAuh1Aibd5WL8uTbY8I6_W9ncLV3w6jCPLLI_dlNPh4)](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)"/>
-</p>
-
 <!-- 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
