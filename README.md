@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
 > 👋 Hi, I’m @nadyakant \
 > 💻 A Social Media Marketer, Content Creator and Strategist \
 > 👀 Passionate about Data Analytics, Visualization, and Automation \
