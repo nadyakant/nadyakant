@@ -9,6 +9,7 @@
 > ⚡ A fun fact about me is that I used to design self-service kiosk interfaces before I fell in love with Data Analytics for Marketing
 
 # 🌐 Socials:
+> ✉️ You can find me here: \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-kantardzhieva) 
 
 # 💻 Tech Stack:
