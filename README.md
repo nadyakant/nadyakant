@@ -6,7 +6,7 @@
 > 👀 Passionate about Data Analytics, Visualization, and Automation \
 > 🌱 Currently learning UiPath for RPA \
 > 💞️ My favorite programming languages are SQL, Python, and Java \
-> 📫 It's easy to reach me, message me on LinkedIn \
+> 📫 It's easy to reach me, just message me on LinkedIn \
 > 😄 Please, refer to me with she or they pronouns, it's up to you! \
 > ⚡ A fun fact about me is that I used to design self-service kiosk interfaces before I fell in love with Data Analytics for Marketing
 
