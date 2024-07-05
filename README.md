@@ -1,6 +1,7 @@
 # 💫 About Me:
 > 👋 Hi, I’m @nadyakant \
-> 👀 I’m interested in Data Analytics, Visualization, and Automation \
+> 💻 A Social Media Marketer, Content Creator and Strategist \
+> 👀 Passionate about Data Analytics, Visualization, and Automation \
 > 🌱 Currently learning UiPath for RPA \
 > 💞️ My favorite programming languages are SQL, Python, and Java \
 > 📫 It's easy to reach me, message me on LinkedIn \
