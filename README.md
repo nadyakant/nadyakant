@@ -26,7 +26,7 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 💻 My Two Modes at Work:
+# 💻 My Two Moods at Work:
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" />
 
 
