@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&letterSpacing=%2B1&duration=4000&pause=1000&color=5EF7F5&random=false&width=435&lines=Hello%2C+World!+I+am+Will+Nadya+%3A])](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/nadyakant)
+![](https://komarev.com/ghpvc/?username=nadyakant&color=blue)
 
 # 💫 About Me:
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
