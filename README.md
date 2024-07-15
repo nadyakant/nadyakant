@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 > 👋 Hi, I’m @nadyakant \
-> 💻 A Social Media Marketer, Content Creator and Strategist \
+> 💻 A Social Media Specialist, Content Creator and Digital Strategist \
 > 👀 Passionate about Data Analytics, Visualization, and Automation \
 > 🌱 Currently learning UiPath for RPA \
 > 💞️ My favorite programming languages are SQL, Python, and Java \
